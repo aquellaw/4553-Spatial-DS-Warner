@@ -1,21 +1,16 @@
-We will use the README's that you will create in every assignment folder to do the following:
+## P01 - Convert and Display City Data
+### Aquella Warner
+### Description 
+This project reads data from a JSON file, manipulates the data to find the city with the highest population in each state, excluding Alaska and Hawaii. The data is then converted to the appropriate geoJson format. After processing, the data copied to geoJson.io where each city and a route can be seen.
 
-Top of the README:
-Project Title
-Your name
-Project Description (It needs to be "descriptive". You can take text straight from the 
-assignment / requirements with a little additions here and there.)
+### Files
+|   #   | File                      | Description                                        |
+| :---: | ---------------           | -------------------------------------------------- |
+|   1   | Main.py                   | Main driver of my project that launches game.      |
+|   2   | cities_latlon_w_pop.json  | Data file contain data to be processsed.           |
+|   3   | cities.geojson            | Contains vizualization data.                       |
 
-After description:
-List all the files and or folders in that current project in a tabular format with a small 
-description of each file.
 
-The filename in that table should link to the actual code file or folder.
 
-After table:
-Instructions
-Any and all information needed to run your code.
-These instructions will be used for others in the class to run your project on their machine. 
-I PROMISE: you will learn very fast how not to assume things just work. Because they DON'T. 
-When your code doesn't run on anyone else's system and you get a zero, I bet you start to let 
-"assumptions" go out the window.
+### Instructions
+Download all documents to run project.
