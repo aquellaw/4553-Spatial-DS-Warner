@@ -1,0 +1,43 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "city": "Portland",
+                "growth": 15,
+                "population": 609456,
+                "rank": 29,
+                "state": "Oregon",
+                "marker-color": "#879CB9",
+                "marker-size": "medium"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.676482,
+                    45.523062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "city": "Seattle",
+                "growth": 15.6,
+                "population": 652405,
+                "rank": 21,
+                "state": "Washington",
+                "marker-color": "#14F334",
+                "marker-size": "medium"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.332071,
+                    47.606209
+                ]
+            }
+        }
+    ]
+}
